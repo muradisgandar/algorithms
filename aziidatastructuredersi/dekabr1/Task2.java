@@ -28,7 +28,7 @@ public class Task2 {
         }
 
         boolean contains = queue.contains(element);
-        if(!contains){
+        if (!contains) {
             System.out.println(element + " is not found");
         }
 

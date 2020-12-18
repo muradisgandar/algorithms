@@ -18,7 +18,7 @@ public class Task4 {
         for (int i = 0; i < array.length; i++) {
             String checkElement = array[i];
             if (isNumeric(checkElement)) {
-                System.out.println( "constant of  polynomial "  + checkElement);
+                System.out.println("constant of  polynomial " + checkElement);
             }
         }
 

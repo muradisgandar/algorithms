@@ -15,7 +15,7 @@ public class Task1 {
         queue.add(40);
         queue.add(50);
         queue.add(60);
-        while (!queue.isEmpty()){
+        while (!queue.isEmpty()) {
             stack.add(queue.peek());
             queue.remove();
         }
@@ -24,7 +24,7 @@ public class Task1 {
             stack.pop();
         }
         while (!queue.isEmpty()) {
-            System.out.println( queue.peek());
+            System.out.println(queue.peek());
             queue.remove();
         }
 

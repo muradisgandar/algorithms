@@ -17,7 +17,7 @@ public class Task2 {
         listSurname.add("Qarayeva");
 
         List<String> nameAndSurname = new ArrayList<>();
-        for(int i = 0;i<listSurname.size();i++){
+        for (int i = 0; i < listSurname.size(); i++) {
             nameAndSurname.add(listSurname.get(i) + " " + listName.get(i));
             // get edib add edirem yeni liste
         }

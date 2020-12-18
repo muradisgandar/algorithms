@@ -16,18 +16,16 @@ public class Task1 {
         numbers.add(45);
         numbers.add(768);
         numbers.add(346);
-        for (int i=0; i<numbers.size();i++){
-            if (!numbers.contains(element)){ // yoxluyuram ki element var yoxsa yox
+        for (int i = 0; i < numbers.size(); i++) {
+            if (!numbers.contains(element)) { // yoxluyuram ki element var yoxsa yox
                 numbers.add(element);  // yoxdusa add edirem
                 System.out.println("element added " + numbers);
                 break;  // tapmadisa add edib chixir loopdan
-            }
-            else if(numbers.contains(element)){
+            } else if (numbers.contains(element)) {
                 System.out.println(element + " is found");
                 break;  // tapdisa deyir tapdim , ve break edir loopu
             }
         }
-
 
 
     }
