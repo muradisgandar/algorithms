@@ -1,0 +1,13 @@
+
+p
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(èÑÁòþÿÿÿÿ8¦ñ¨¸ã.
+Y
+java:S4973"9Use the "equals" method if value comparison was intended.(¸“Þ¿üÿÿÿÿ8¦ñ¨¸ã.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶”Ñ½8Ø¡¨¸ã.
+y
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÑÁòþÿÿÿÿ8Ø¡¨¸ã.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥†ñ’8Ø¡¨¸ã.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦â‰Ô8Ø¡¨¸ã.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ó­§¬8Ø¡¨¸ã.
+m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•á¦èýÿÿÿÿ8Ø¡¨¸ã.

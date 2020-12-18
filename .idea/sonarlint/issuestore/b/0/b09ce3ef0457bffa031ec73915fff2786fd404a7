@@ -1,0 +1,18 @@
+
+]	java:S125("<This block of commented-out lines of code should be removed.(§Ã˜†øÿÿÿÿ8ÂÏ‡»ã.
+m
+java:S1149'"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(±±¿™8ÂÏ‡»ã.
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¯¿ÿÉ8—â·¸ã.
+v
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(±±¿™8ÂÏ‡»ã.
+H
+java:S1481'"+Remove this unused "stack1" local variable.(±±¿™8ÂÏ‡»ã.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¿ÿÉ8°Â·¸ã.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(½’—ÿüÿÿÿÿ8ÂÏ‡»ã.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(†´î‘ýÿÿÿÿ8°Â·¸ã.
+C	java:S131""Add a default case to this switch.(Òè²öúÿÿÿÿ8°Â·¸ã.
+W
+java:S1854'":Remove this useless assignment to local variable "stack1".(±±¿™8ÂÏ‡»ã.

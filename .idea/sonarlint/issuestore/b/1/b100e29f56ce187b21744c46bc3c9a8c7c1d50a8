@@ -1,0 +1,21 @@
+
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(í×‹à8««ä‡ä.
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ã–ä­ûÿÿÿÿ8««ä‡ä.
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ã–ä­ûÿÿÿÿ8««ä‡ä.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.( ±Ãž8««ä‡ä.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Ú½‰8««ä‡ä.
+m
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ÿ×ÀÀ8««ä‡ä.
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ×ÀÀ8««ä‡ä.
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(—Ú½‰8««ä‡ä.
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Íì‚«üÿÿÿÿ8««ä‡ä.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Íì‚«üÿÿÿÿ8««ä‡ä.
