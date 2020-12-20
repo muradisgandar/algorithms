@@ -1,6 +1,0 @@
-
-P
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8‘¹¯üá.
-U	java:S1062"9Replace this use of System.out or System.err by a logger.(Â¬–8­ÄÁıá.
-U	java:S1064"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬8­ÄÁıá.
-Z	java:S1065"9Replace this use of System.out or System.err by a logger.(²˜ë³úÿÿÿÿ8­ÄÁıá.

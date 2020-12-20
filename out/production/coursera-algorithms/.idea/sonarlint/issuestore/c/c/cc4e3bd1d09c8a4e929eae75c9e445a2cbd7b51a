@@ -1,33 +1,0 @@
-
-Q
-java:S3740"/Provide the parametrized type for this generic.(â¨ı™ÿÿÿÿÿ8Âè¹¸ã.
-Q
-java:S3740"/Provide the parametrized type for this generic.(â¨ı™ÿÿÿÿÿ8Âè¹¸ã.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(²õ˜øÿÿÿÿ8—Í¹¸ã.
-r
-java:S11492"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(©­îÌÿÿÿÿÿ8Âè¹¸ã.
-U	java:S106A"9Replace this use of System.out or System.err by a logger.(ÙÆ†8—Í¹¸ã.
-r
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(â¨ı™ÿÿÿÿÿ8Âè¹¸ã.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ìÅéøÿÿÿÿ8—Í¹¸ã.
-h
-java:S1192"FDefine a constant instead of duplicating this literal "Geeks" 5 times.(¡ÀáÜıÿÿÿÿ8—Í¹¸ã.
-U	java:S106<"9Replace this use of System.out or System.err by a logger.(˜šã°8—Í¹¸ã.
-U	java:S106I"9Replace this use of System.out or System.err by a logger.(Ï‡‘ç8—Í¹¸ã.
-r
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(…ıàÑúÿÿÿÿ8Âè¹¸ã.
-{
-java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(©­îÌÿÿÿÿÿ8—Í¹¸ã.
-Z	java:S106H"9Replace this use of System.out or System.err by a logger.(¬ĞË‹ùÿÿÿÿ8—Í¹¸ã.
-U	java:S106*"9Replace this use of System.out or System.err by a logger.(°œ‡8—Í¹¸ã.
-U	java:S106E"9Replace this use of System.out or System.err by a logger.(çÌ’8—Í¹¸ã.
-r
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(·ìÅéøÿÿÿÿ8Âè¹¸ã.
-U	java:S106?"9Replace this use of System.out or System.err by a logger.(ÙÆ†8—Í¹¸ã.
-Z	java:S106."9Replace this use of System.out or System.err by a logger.(íô’ÿÿÿÿÿ8—Í¹¸ã.
-Z	java:S106J"9Replace this use of System.out or System.err by a logger.(›€Ğ”øÿÿÿÿ8—Í¹¸ã.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ıàÑúÿÿÿÿ8—Í¹¸ã.
-U	java:S106'"9Replace this use of System.out or System.err by a logger.(»Ù÷°8—Í¹¸ã.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûã•²ùÿÿÿÿ8—Í¹¸ã.
